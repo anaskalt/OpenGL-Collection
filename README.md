@@ -1,1 +1,7 @@
 # OpenGL-Collection
+
+## Requirements
+
+⋅⋅* 
+⋅⋅* 
+⋅⋅* 
